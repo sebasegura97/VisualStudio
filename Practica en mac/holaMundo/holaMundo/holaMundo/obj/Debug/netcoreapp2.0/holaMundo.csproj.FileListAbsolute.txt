@@ -1,0 +1,12 @@
+/Users/sebastian/Documents/GitHub/visualStudio/holaMundo/holaMundo/holaMundo/bin/Debug/netcoreapp2.0/libe_sqlite3.dylib
+/Users/sebastian/Documents/GitHub/visualStudio/holaMundo/holaMundo/holaMundo/bin/Debug/netcoreapp2.0/holaMundo.deps.json
+/Users/sebastian/Documents/GitHub/visualStudio/holaMundo/holaMundo/holaMundo/bin/Debug/netcoreapp2.0/holaMundo.runtimeconfig.json
+/Users/sebastian/Documents/GitHub/visualStudio/holaMundo/holaMundo/holaMundo/bin/Debug/netcoreapp2.0/holaMundo.runtimeconfig.dev.json
+/Users/sebastian/Documents/GitHub/visualStudio/holaMundo/holaMundo/holaMundo/bin/Debug/netcoreapp2.0/holaMundo.dll
+/Users/sebastian/Documents/GitHub/visualStudio/holaMundo/holaMundo/holaMundo/bin/Debug/netcoreapp2.0/holaMundo.pdb
+/Users/sebastian/Documents/GitHub/visualStudio/holaMundo/holaMundo/holaMundo/obj/Debug/netcoreapp2.0/holaMundo.csprojResolveAssemblyReference.cache
+/Users/sebastian/Documents/GitHub/visualStudio/holaMundo/holaMundo/holaMundo/obj/Debug/netcoreapp2.0/holaMundo.csproj.CoreCompileInputs.cache
+/Users/sebastian/Documents/GitHub/visualStudio/holaMundo/holaMundo/holaMundo/obj/Debug/netcoreapp2.0/holaMundo.AssemblyInfoInputs.cache
+/Users/sebastian/Documents/GitHub/visualStudio/holaMundo/holaMundo/holaMundo/obj/Debug/netcoreapp2.0/holaMundo.AssemblyInfo.cs
+/Users/sebastian/Documents/GitHub/visualStudio/holaMundo/holaMundo/holaMundo/obj/Debug/netcoreapp2.0/holaMundo.dll
+/Users/sebastian/Documents/GitHub/visualStudio/holaMundo/holaMundo/holaMundo/obj/Debug/netcoreapp2.0/holaMundo.pdb

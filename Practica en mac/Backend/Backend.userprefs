@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{C557AB35-7B88-44F7-BC34-2D660C25E51E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Backend/Models/Apprentice.cs">
+    <Files>
+      <File FileName="Backend/Models/Apprentice.cs" Line="6" Column="22" />
+      <File FileName="Backend/Controllers/HomeController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Backend PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

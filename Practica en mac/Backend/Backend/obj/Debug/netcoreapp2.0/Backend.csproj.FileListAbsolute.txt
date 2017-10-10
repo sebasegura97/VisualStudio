@@ -1,0 +1,12 @@
+/Users/sebastian/Documents/GitHub/visualStudio/Backend/Backend/bin/Debug/netcoreapp2.0/libe_sqlite3.dylib
+/Users/sebastian/Documents/GitHub/visualStudio/Backend/Backend/bin/Debug/netcoreapp2.0/Backend.deps.json
+/Users/sebastian/Documents/GitHub/visualStudio/Backend/Backend/bin/Debug/netcoreapp2.0/Backend.runtimeconfig.json
+/Users/sebastian/Documents/GitHub/visualStudio/Backend/Backend/bin/Debug/netcoreapp2.0/Backend.runtimeconfig.dev.json
+/Users/sebastian/Documents/GitHub/visualStudio/Backend/Backend/bin/Debug/netcoreapp2.0/Backend.dll
+/Users/sebastian/Documents/GitHub/visualStudio/Backend/Backend/bin/Debug/netcoreapp2.0/Backend.pdb
+/Users/sebastian/Documents/GitHub/visualStudio/Backend/Backend/obj/Debug/netcoreapp2.0/Backend.csprojResolveAssemblyReference.cache
+/Users/sebastian/Documents/GitHub/visualStudio/Backend/Backend/obj/Debug/netcoreapp2.0/Backend.csproj.CoreCompileInputs.cache
+/Users/sebastian/Documents/GitHub/visualStudio/Backend/Backend/obj/Debug/netcoreapp2.0/Backend.AssemblyInfoInputs.cache
+/Users/sebastian/Documents/GitHub/visualStudio/Backend/Backend/obj/Debug/netcoreapp2.0/Backend.AssemblyInfo.cs
+/Users/sebastian/Documents/GitHub/visualStudio/Backend/Backend/obj/Debug/netcoreapp2.0/Backend.dll
+/Users/sebastian/Documents/GitHub/visualStudio/Backend/Backend/obj/Debug/netcoreapp2.0/Backend.pdb
